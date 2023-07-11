@@ -8,11 +8,10 @@
 
 The development of the Android application will follow the following steps:
 
-<ol>
-    <li> Neural Network Research: Conduct a comprehensive research on neural networks and their application to handwritten digit recognition. Identify and review relevant academic papers, textbooks, and credible resources to gain a deep understanding of the underlying theory and techniques.</li>
+<ul>
     <li> Model Training: Utilize the MNIST Dataset to train the neural network model. This dataset contains a large collection of handwritten digit images along with their corresponding labels. The model will be trained on this dataset to learn and recognize patterns in handwritten digits.</li>
     <li> Application Development: Implement the Android application, integrating the trained neural network model. The application will utilize the smartphone camera to capture photos of handwritten digits. The images will be processed by the neural network, which will predict the corresponding digit. The recognized digit will be displayed on the application's output screen.</li>
-</ol>
+</ul>
 <h3>Conclusion</h3>
 
 <p>This project focuses on the development of an Android application for handwritten digit recognition. By leveraging a neural network model trained on the MNIST Dataset, the application aims to accurately recognize and identify handwritten digits captured through the smartphone camera. The project follows a systematic approach, involving research, literature review, model training, application development, testing, and documentation, to ensure the successful implementation of the application.</p>
