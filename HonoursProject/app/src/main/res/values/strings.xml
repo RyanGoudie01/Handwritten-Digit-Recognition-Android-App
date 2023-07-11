@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Honours Project</string>
+    <string name="prediction_text_placeholder" translatable="false">Please capture a image</string>
+    <string name="classification_error_message" translatable="false">Error classifying drawing: %s</string>
+    <string name="null_image" translatable="false">Error Please capture an image</string>
+    <string name="crop_message" translatable="false">Please crop captured image to contain a single digit</string>
+    <string name="crop_realign_message" translatable="false">Please re-align crop view before conversion</string>
+    <string name="predict_message" translatable="false">Image is now ready for recognition</string>
+</resources>
